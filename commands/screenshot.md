@@ -1,5 +1,3 @@
-
-
 # Trigger
 Your preferance, I personally use **?screenshot**
 
@@ -19,3 +17,6 @@ $title[Screenshot of $message]
 $image[https://image.thum.io/get/width/1200/crop/675/png/$message]
 $endif
 ```
+
+# More TLDs
+You make make the command support more TLDs by adding **;.(tld here)** in line 8 with the rest of the TLDs.
