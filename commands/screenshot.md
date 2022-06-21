@@ -4,7 +4,8 @@
 Your preferance, I personally use '?screenshot'
 
 # Code
-```$nomention
+```
+$nomention
 
 $var[isUrl;$checkContains[$message;https://;http://] $checkContains[$message;.com;.org;.xyz;.io;.us;.lol;.gg;.net;.club;.wtf]]
 
@@ -16,4 +17,5 @@ At the moment this commands only supports `.gg`, `.io`, `.us`, `.com`, `.lol`, `
 $else
 $title[Screenshot of $message]
 $image[https://image.thum.io/get/width/1200/crop/675/png/$message]
-$endif```
+$endif
+```
