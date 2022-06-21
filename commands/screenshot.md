@@ -1,7 +1,7 @@
 
 
 # Trigger
-Your preferance, I personally use '?screenshot'
+Your preferance, I personally use **?screenshot**
 
 # Code
 ```
