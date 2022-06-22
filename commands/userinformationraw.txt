@@ -1,3 +1,5 @@
+BDSCRIPT2
+
 $nomention
 
 $author[$username[$mentioned[1;yes]]#$discriminator[$mentioned[1;yes]]]
