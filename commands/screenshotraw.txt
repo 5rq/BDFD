@@ -1,3 +1,5 @@
+BDSCRIPT2
+
 $nomention
 
 $var[isUrl;$checkContains[$message;https://;http://] $checkContains[$message;.com;.org;.xyz;.io;.us;.lol;.gg;.net;.club;.wtf]]
