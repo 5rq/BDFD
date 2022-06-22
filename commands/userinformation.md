@@ -1,7 +1,7 @@
 # Trigger
 Your preferance, I personally use **?userinfo**
 
-# Code
+# Code / BDSCRIPT2
 ```
 $nomention
 
