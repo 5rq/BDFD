@@ -1,7 +1,7 @@
 # Trigger
 Your preferance, I personally use **?screenshot**
 
-# Code
+# Code / BDSCRIPT2
 ```
 $nomention
 
